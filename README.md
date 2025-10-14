@@ -1,4 +1,4 @@
-## Abount me
+# Abount me
 
 ##  :mortar_board: Education
 - Master's degree in Information Management at National Chengchi University (NCCU), Taiwan (ROC)
