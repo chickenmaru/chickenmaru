@@ -6,7 +6,7 @@
 
 ## :mag: Expertise
 - Game Design and Development (UE5)
-- Web C 
+- Web Crawler (Selenum、BeautifulSoup)
 
 ## :school_satchel: Award
 -- Merit Award &  Most Popular Award: National Universities Digital Humanities and Big Data Student Competition  (2022全國人文大數據能力競賽築夢踏實組佳作&最佳人氣獎)
