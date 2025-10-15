@@ -14,21 +14,21 @@
 ## :muscle: Experience：
 
 ### :computer: Artificial Intelligence
-- 2024 SVC: Voice Clone
-- 2024 Classification: House Price Classifier
-- 2023 CNN: PaintCNN
-- 2023 BERT: Sentiment Analysis
-- 2023 RL: Maze Exploration
-- 2021 AWS Recognition: Compas Tour Game
+- 2024 SVC: Voice Clone 👉 [Click Me](https://github.com/chickenmaru/2024_PersonalProject_SVC_VoiceClone)
+- 2024 Classification: House Price Classifier  👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_Classification_HousePriceClassifier)
+- 2023 CNN: PaintCNN  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_CNN_PaintCNN)
+- 2023 BERT: Sentiment Analysis  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_BERT_SentimentAnalysis)
+- 2023 RL: Maze Exploration  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_RL_MazeExploration)
+- 2021 AWS Recognition: Compas Tour Game  👉 [Click Me](https://github.com/chickenmaru/2021_CourseProject_AWSRecognition_AICompasTourGame)
 
 ### :iphone: Application & Web 
-- 2023 crowdfunding platform: Guaguawawa
-- 2022 LINE bot: StockPal
-- 2021 LINE bot: Crowd Microscop
-- 2021 ordering kiosk system: Bite Bot
+- 2023 crowdfunding platform: Guaguawawa  👉 [Click Me](https://github.com/chickenmaru/2023_CourseProject_CrowdfundingPlatform_Guaguawawa)
+- 2022 LINE bot: StockPal 👉 
+- 2021 LINE bot: Crowd Microscop [Click Me](https://github.com/chickenmaru/-2021_CompetitionProject_LINEBOT_CrowdMicroscope)
+- 2021 ordering kiosk system: Bite Bot 👉 
 
 ### :bar_chart: Data Analysis & Decision Making
-- 2024 dynamic beverage pricing simulation
+- 2024 dynamic beverage pricing simulation 👉 
 <!---
 chickenmaru/chickenmaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
