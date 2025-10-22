@@ -13,7 +13,7 @@
 
 ## :muscle: Experience：
 
-### :game develop
+### :video_camera:  game develop
 - 2025 Star Blade 👉 [Click Me]()
 - 2022 Yummy Strawberry 👉 [Click Me]()
 ### :computer: Artificial Intelligence
