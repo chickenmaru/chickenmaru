@@ -24,6 +24,17 @@
 - 2023 RL: Maze Exploration  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_RL_MazeExploration)
 - 2021 AWS Recognition: Compas Tour Game  👉 [Click Me](https://github.com/chickenmaru/2021_CourseProject_AWSRecognition_AICompasTourGame)
 
+###  Data Mining 
+- 2024 EDA: Housing Dataset Exploration 👉 [Click Me]()
+- 2024 EDA: Economic Freedom Attributes Analysis 👉 [Click Me]()
+- 2024 EDA: Churn Modeling Data Visualization 👉 [Click Me]()
+- 2024 Dimensionality Reduction & Clustering Visualization: Multi-Dimensional Clustering Reduction 👉 [Click Me]()
+- 2024 Ensemble Learning: Tree Bagging Ensemble Prediction 👉 [Click Me]()
+- 2024 Model Interpretation & Explainable AI: Gradient Boosting Model Interpretation 👉 [Click Me]()
+- 2024 Model Interpretation (SHAP) & Ensemble Models: CatBoost SHAP Feature Impact 👉 [Click Me]()
+- 2024 Anomaly Detection, Clustering & Classification: Handwritten Digit Image Classification 👉 [Click Me]()
+
+
 ### :iphone: Application & Web 
 - 2023 Crowdfunding Platform: Guaguawawa  👉 [Click Me](https://github.com/chickenmaru/2023_CourseProject_CrowdfundingPlatform_Guaguawawa)
 - 2022 LINE Bot: StockPal 👉 [Click Me](https://github.com/chickenmaru/2022_CourseProject_LINEBOT_StockPal)
