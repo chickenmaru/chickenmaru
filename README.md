@@ -25,7 +25,7 @@
 - 2021 AWS Recognition: Compas Tour Game  👉 [Click Me](https://github.com/chickenmaru/2021_CourseProject_AWSRecognition_AICompasTourGame)
 
 ###  Data Mining 
-- 2024 EDA: Housing Dataset Exploration 👉 [Click Me]()
+- 2024 EDA: Housing Dataset Exploration 👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_EDA_HousingDatasetExploration)
 - 2024 EDA: Economic Freedom Attributes Analysis 👉 [Click Me]()
 - 2024 EDA: Churn Modeling Data Visualization 👉 [Click Me]()
 - 2024 Dimensionality Reduction & Clustering Visualization: Multi-Dimensional Clustering Reduction 👉 [Click Me]()
@@ -38,7 +38,7 @@
 ### :iphone: Application & Web 
 - 2023 Crowdfunding Platform: Guaguawawa  👉 [Click Me](https://github.com/chickenmaru/2023_CourseProject_CrowdfundingPlatform_Guaguawawa)
 - 2022 LINE Bot: StockPal 👉 [Click Me](https://github.com/chickenmaru/2022_CourseProject_LINEBOT_StockPal)
-- 2021 LINE Bot: Crowd Microscop [Click Me](https://github.com/chickenmaru/-2021_CompetitionProject_LINEBOT_CrowdMicroscope)
+- 2021 LINE Bot: Crowd Microscop 👉 [Click Me](https://github.com/chickenmaru/-2021_CompetitionProject_LINEBOT_CrowdMicroscope)
 - 2021 Ordering Kiosk System: Bite Bot 👉 [Click Me]()
 
 ### :bar_chart: Data Analysis & Decision Making
