@@ -25,8 +25,8 @@
 - 2021 AWS Recognition: Compas Tour Game  👉 [Click Me](https://github.com/chickenmaru/2021_CourseProject_AWSRecognition_AICompasTourGame)
 
 ###  Data Mining 
-- 2024 EDA: Housing Dataset Exploration 👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_EDA_HousingDatasetExploration)
-- 2024 EDA: Economic Freedom Attributes Analysis 👉 [Click Me]()
+- 2024 EDA: Housing Dataset Exploration 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EDA_HousingDatasetExploration)
+- 2024 EDA: Economic Freedom Attributes Analysis 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EDA_EconomicFreedomAttributesAnalysis)
 - 2024 EDA: Churn Modeling Data Visualization 👉 [Click Me]()
 - 2024 Dimensionality Reduction & Clustering Visualization: Multi-Dimensional Clustering Reduction 👉 [Click Me]()
 - 2024 Ensemble Learning: Tree Bagging Ensemble Prediction 👉 [Click Me]()
