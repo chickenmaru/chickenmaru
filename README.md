@@ -14,11 +14,11 @@
 ## :muscle: Experience：
 
 ### :video_camera:  game develop
-- 2025 Star Blade 👉 [Click Me]()
+- 2025 Star Blade 👉 [Click Me](https://github.com/chickenmaru/2025_PersonalProject_UE5_StarBlade)
 - 2022 Yummy Strawberry 👉 [Click Me]()
+- 
 ### :computer: Artificial Intelligence
 - 2024 SVC: Voice Clone 👉 [Click Me](https://github.com/chickenmaru/2024_PersonalProject_SVC_VoiceClone)
-- 2024 Classification: House Price Classifier  👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_Classification_HousePriceClassifier)
 - 2023 CNN: PaintCNN  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_CNN_PaintCNN)
 - 2023 BERT: Sentiment Analysis  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_BERT_SentimentAnalysis)
 - 2023 RL: Maze Exploration  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_RL_MazeExploration)
@@ -33,7 +33,7 @@
 - 2024 Model Interpretation & Explainable AI: Gradient Boosting Model Interpretation 👉 [Click Me]()
 - 2024 Model Interpretation (SHAP) & Ensemble Models: CatBoost SHAP Feature Impact 👉 [Click Me]()
 - 2024 Anomaly Detection, Clustering & Classification: Handwritten Digit Image Classification 👉 [Click Me]()
-
+- 2024 Classification: House Price Classifier  👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_Classification_HousePriceClassifier)
 
 ### :iphone: Application & Web 
 - 2023 Crowdfunding Platform: Guaguawawa  👉 [Click Me](https://github.com/chickenmaru/2023_CourseProject_CrowdfundingPlatform_Guaguawawa)
