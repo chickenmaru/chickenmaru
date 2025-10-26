@@ -24,7 +24,7 @@
 - 2023 RL: Maze Exploration  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_RL_MazeExploration)
 - 2021 AWS Recognition: Compas Tour Game  👉 [Click Me](https://github.com/chickenmaru/2021_CourseProject_AWSRecognition_AICompasTourGame)
 
-###  Data Mining 
+###  🛠️ Data Mining 
 - 2024 EDA: Housing Dataset Exploration 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EDA_HousingDatasetExploration)
 - 2024 EDA: Economic Freedom Attributes Analysis 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EDA_EconomicFreedomAttributesAnalysis)
 - 2024 EDA: Churn Modeling Data Visualization 👉 [Click Me]()
