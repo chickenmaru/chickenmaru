@@ -16,7 +16,7 @@
 ### :video_camera:  game develop
 - 2025 Star Blade 👉 [Click Me](https://github.com/chickenmaru/2025_PersonalProject_UE5_StarBlade)
 - 2022 Yummy Strawberry 👉 [Click Me]()
-- 
+
 ### :computer: Artificial Intelligence
 - 2024 SVC: Voice Clone 👉 [Click Me](https://github.com/chickenmaru/2024_PersonalProject_SVC_VoiceClone)
 - 2023 CNN: PaintCNN  👉 [Click Me](https://github.com/chickenmaru/2023_CouseAssignment_CNN_PaintCNN)
