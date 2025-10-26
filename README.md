@@ -11,7 +11,7 @@
 ## :school_satchel: Award
 -- Merit Award &  Most Popular Award: National Universities Digital Humanities and Big Data Student Competition  (2022全國人文大數據能力競賽築夢踏實組佳作&最佳人氣獎)
 
-## :muscle: Experience：
+## :muscle: Experience
 
 ### :video_camera:  game develop
 - 2025 Star Blade 👉 [Click Me](https://github.com/chickenmaru/2025_PersonalProject_UE5_StarBlade)
