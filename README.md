@@ -40,7 +40,6 @@
 - 2023 Crowdfunding Platform: Guaguawawa  👉 [Click Me](https://github.com/chickenmaru/2023_CourseProject_CrowdfundingPlatform_Guaguawawa)
 - 2022 LINE Bot: StockPal 👉 [Click Me](https://github.com/chickenmaru/2022_CourseProject_LINEBOT_StockPal)
 - 2021 LINE Bot: Crowd Microscop 👉 [Click Me](https://github.com/chickenmaru/-2021_CompetitionProject_LINEBOT_CrowdMicroscope)
-- 2021 Ordering Kiosk System: Bite Bot 👉 [Click Me]()
 
 ### :bar_chart: Data Analysis & Decision Making
 - 2024 Dynamic Beverage Pricing Simulation 👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_DynamicBeveragePricingSimulation)
