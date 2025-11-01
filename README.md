@@ -31,9 +31,6 @@
 - 2024 EDA: Churn Modeling Data Visualization 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EDA_ChurnModelingDataVisualization)
 - 2024 Dimensionality Reduction & Clustering Visualization: Multi-Dimensional Clustering Reduction 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_Clustering_MultiDimensionalClusteringReduction)
 - 2024 Ensemble Learning: Tree Bagging Ensemble Prediction 👉 [Click Me](https://github.com/chickenmaru/2024_CourseAssignment_EnsembleLearning_TreeBaggingEnsemblePrediction)
-- 2024 Model Interpretation & Explainable AI: Gradient Boosting Model Interpretation 👉 [Click Me]()
-- 2024 Model Interpretation (SHAP) & Ensemble Models: CatBoost SHAP Feature Impact 👉 [Click Me]()
-- 2024 Anomaly Detection, Clustering & Classification: Handwritten Digit Image Classification 👉 [Click Me]()
 - 2024 Classification: House Price Classifier  👉 [Click Me](https://github.com/chickenmaru/2024_CourseProject_Classification_HousePriceClassifier)
 
 ### :iphone: Application & Web 
